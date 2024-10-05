@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+img{
+    height: 420px;
+    width: 700px;
+    border: 1px solid red;
+    
+}
+.img{
+    margin: auto;
+    text-align: center;
+}
+.button{
+    margin: auto;
+    text-align: center;    
+}
+button{
+     display: inline;
+     width: 100px;
+     height: 30px;
+}
